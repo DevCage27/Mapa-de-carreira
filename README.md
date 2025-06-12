@@ -15,8 +15,5 @@ Você pode visualizar a versão online e navegável clicando no link abaixo:
 - Font Awesome (ícones)
 - Git & GitHub
 
-## 📁 Como rodar localmente
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/DevCage27/Mapa-de-carreira.git
+
